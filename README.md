@@ -1,0 +1,1 @@
+# SMART-Based-Crack-Growth-Simulation-of-a-Centre-Crack-Plate-in-ANSYS-
